@@ -1,5 +1,9 @@
+# Challenge can be found here
+# https://www.reddit.com/r/dailyprogrammer/comments/98ufvz/20180820_challenge_366_easy_word_funnel_1/
+
 import java.util.*;
 import java.io.*;
+
 public class Challenge366  {
    public static void main(String[] args) throws FileNotFoundException{
       String a = "eave";
