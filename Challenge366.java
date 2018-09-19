@@ -1,5 +1,5 @@
-# Challenge can be found here
-# https://www.reddit.com/r/dailyprogrammer/comments/98ufvz/20180820_challenge_366_easy_word_funnel_1/
+// Challenge can be found here
+// https://www.reddit.com/r/dailyprogrammer/comments/98ufvz/20180820_challenge_366_easy_word_funnel_1/
 
 import java.util.*;
 import java.io.*;
