@@ -1,5 +1,5 @@
-# Challenge can be found here
-# https://www.reddit.com/r/dailyprogrammer/comments/98ufvz/20180820_challenge_366_easy_word_funnel_1/
+// Challenge can be found here
+// https://www.reddit.com/r/dailyprogrammer/comments/98ufvz/20180820_challenge_366_easy_word_funnel_1/
 
 import java.util.*;
 import java.io.*;
@@ -8,9 +8,9 @@ public class Challenge366  {
    public static void main(String[] args) throws FileNotFoundException{
       String a = "eave";
       String b = "leave";
-      System.out.print(bonus("affidavit"));
+      System.out.print(bonus("aardvarks"));
    }
-   
+
    public static List<String> bonus(String a) throws FileNotFoundException{
       Scanner fileIn = new Scanner(new File("enable1.txt"));
       List<String> valid = new ArrayList<String>();
@@ -22,7 +22,7 @@ public class Challenge366  {
       }
       return valid;
    }
-   
+
    public static boolean funnel(String a, String b) {
       if(a.length() - 1 != b.length()) {
          return false;
@@ -35,12 +35,12 @@ public class Challenge366  {
       }
       return false;
    }
-   
+
    public static int wordFunnel() {
-   
+       return 0;
    }
-   
-   private static int wordFunnel(String a, ) {
-   
+
+   private static int wordFunnel(String a) {
+       return 0;
    }
 }
